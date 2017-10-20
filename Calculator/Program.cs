@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calculator.NUnitTest
+namespace Calculator
 {
-    public class Class1
+    public class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
